@@ -1,0 +1,2 @@
+<span id="a">info@atmaji.id</span>:<span id="b">~</span><span id="c">$</span> cat atmaji.txt<br/><br/>
+Hi, I'm Atmaji Haryo Wiryawan.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I majored in Electrical Engineering with a concentration in Embedded System Engineering and Web Programming</p><!-- qowifjqwoeijfoqweijfqweoifjqweofijqweoqwoijefoqwijefoijfqiwoefjj -->
